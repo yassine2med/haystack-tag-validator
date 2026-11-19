@@ -1,0 +1,12 @@
+id,dis,markers,equipRef,siteRef,kind,unit
+site-a,Building A,site,,,,
+ahu-1,AHU-1,equip ahu,,site-a,,
+ahu-1-sat,AHU-1 Supply Air Temp,point sensor air discharge temp,ahu-1,,Number,degF
+ahu-1-sat-sp,AHU-1 Supply Air Temp Setpoint,point sp air discharge temp,ahu-1,,Number,degF
+ahu-1-fan-cmd,AHU-1 Fan Command,point cmd fan run,ahu-1,,Bool,
+ahu-1-rat,AHU-1 Return Air Temp,point sensor air return temp,ahu-9,,Number,degF
+ahu-1-oat,AHU-1 Outside Air Temp,point air outside temp,ahu-1,,Number,
+ahu-1-dmp,AHU-1 Damper,point sensor damper positon,ahu-1,,Number,%
+vav-1,VAV-1,equip vav,,,,
+vav-1-zt,VAV-1 Zone Temp,point sensor sensor zone temp,vav-1,,Number,degF
+vav-1-zt,VAV-1 Duplicate,point sensor zone temp,vav-1,,Number,degF
