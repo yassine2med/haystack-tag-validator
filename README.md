@@ -2,6 +2,8 @@
 
 # haystack-tag-validator
 
+[![CI](https://github.com/yassine2med/haystack-tag-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/haystack-tag-validator/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Checks a CSV building point list against a small Haystack style tag model and prints one line per problem.
 
 ![Screenshot](docs/screenshot.png)
