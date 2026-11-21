@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="haystack-tag-validator" width="100%"></p>
+
 # haystack-tag-validator
 
 Checks a CSV building point list against a small Haystack style tag model and prints one line per problem.
